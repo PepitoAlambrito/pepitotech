@@ -1,0 +1,9 @@
+{
+  "item.pepitotech.gold_coin": "Moneda de oro",
+  "item.pepitotech.iron_coin": "Moneda de hierro",
+  "item.pepitotech.copper_gravel": "Gravilla de cobre",
+  "item.pepitotech.iron_gravel": "Gravilla de hierro",
+  "item.pepitotech.copper_hammer": "Martillo de cobre",
+  "item.pepitotech.iron_hammer": "Martillo de hierro",
+  "creativetab.pepitotech.pepitotech_tab": "Pepito Tech"
+}

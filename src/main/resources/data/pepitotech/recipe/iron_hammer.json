@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "CCC",
+    " S"
+  ],
+  "key": {
+    "C": "minecraft:iron_ingot",
+    "S": "minecraft:stick"
+  },
+  "result": {
+    "id": "pepitotech:iron_hammer",
+    "count": 1
+  }
+}

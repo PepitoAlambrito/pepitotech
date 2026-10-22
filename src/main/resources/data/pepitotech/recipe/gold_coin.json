@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " H ",
+    " N ",
+    " N "
+  ],
+  "key": {
+    "H": "pepitotech:copper_hammer",
+    "N": "minecraft:gold_nugget"
+  },
+  "result": {
+    "id": "pepitotech:gold_coin",
+    "count": 1
+  }
+}
